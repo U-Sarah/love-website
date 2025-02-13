@@ -73,7 +73,7 @@ const GlowLove = () => {
             It's Valentine's Day, my love. I'm not much of a valentine person
             but then, I'm with my favorite person, so why not? This is my
             littlest way of expressing my love to you. I thought and thought of
-            thoughtful gifts to give, went through my account balace, searched
+            thoughtful gifts to give, went through my account balance, searched
             for things online but then, guess what? My account balance told me
             to take a chill pill and think of something better😂. Funny right?😂{" "}
           </p>
