@@ -2,7 +2,7 @@ import React from "react";
 
 const ValPrompt = ({onAccept}) => {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-red-500">
+    <div className="min-h-screen flex flex-col items-center justify-center px-4 bg-red-500">
       <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">
         Will you be my Valentine?
       </h1>
