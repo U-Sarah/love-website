@@ -64,7 +64,7 @@ const GlowLove = () => {
 
       {showMessage && (
         <motion.p
-          className="text-pink-700 text-xl mt-6 p-4 bg-white rounded-lg shadow-md space-y-4"
+          className="text-pink-700 sm:text-sm text-xl mt-6 p-6 sm:p-4 bg-white rounded-lg shadow-md space-y-4"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
@@ -96,7 +96,7 @@ const GlowLove = () => {
             I know this isn't the very best gift I could give, it's just a
             starting point. We have many years to spend with each other. Jesus
             still tarrying, We'll get married. Tbh, I really want to write
-            stores like "From he first time I knew you, blah blah" but then, I
+            stores like "From the first time I knew you, blah blah" but then, I
             won't finish today😭. Why so sweet?😭.
           </p>
 
