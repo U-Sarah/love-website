@@ -64,7 +64,7 @@ const GlowLove = () => {
 
       {showMessage && (
         <motion.p
-          className="text-pink-700 sm:text-sm text-xl mt-6 p-6 sm:p-4 bg-white rounded-lg shadow-md space-y-4"
+          className="text-pink-700  text-base sm:text-sm lg:text-xl mt-6 p-6 sm:p-3 bg-white rounded-lg shadow-md space-y-4"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
@@ -86,9 +86,9 @@ const GlowLove = () => {
             you is because, You're all that! You deserve everything😍. From the
             way you express your love, the way you care, the way you're
             interested in whatever makes me happy, your support through
-            everything, the way you annoy me, the way you apologize, the littlest
-            talks, the laughs, amongst many others💖. If I were to keep on
-            writing about you, trust me, you won't receive this gift on
+            everything, the way you annoy me, the way you apologize, the
+            littlest talks, the laughs, amongst many others💖. If I were to keep
+            on writing about you, trust me, you won't receive this gift on
             valentine's day.😂
           </p>
 
